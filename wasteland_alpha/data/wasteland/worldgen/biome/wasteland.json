@@ -1,0 +1,10 @@
+{
+    "biome": "wasteland:waste",
+    "parameters": {
+      "altitude": 0.1,
+      "weirdness": 0.0,
+      "offset": 0.0,
+      "temperature": 1.5,
+      "humidity": -0.5
+    }
+  }
