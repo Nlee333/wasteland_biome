@@ -1,1 +1,0 @@
-tellraw @a {"text": "pogpog", "color": "#8A2BE2"}
